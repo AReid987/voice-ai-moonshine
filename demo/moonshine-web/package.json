@@ -18,6 +18,6 @@
   },
   "devDependencies": {
     "@huggingface/hub": "^0.19.0",
-    "vite": "^5.4.11"
+    "vite": "^6.2.2"
   }
 }
